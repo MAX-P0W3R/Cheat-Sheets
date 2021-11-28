@@ -14,6 +14,15 @@
 ### Reporting
 
 
+| Scan Results |
+|-------------------------------------------------------|
+| Start Time  |                                         |
+| Finish Time |                                         |  
+| Scab Time   |                                         |
+| Profile     |                                         |
+|                                                       |
+
+
 
 
 **:skull_and_crossbones:I am not the creator of these of tools. Use responsibly, don't be an asshole.**
