@@ -8,7 +8,8 @@
 - AutoRecon
 - FFuF (Fuzz Faster yoU Fool)
 - nmap
-- ncat
+- netcat
+- hashcat
 - sherlock
 
 ### Reporting
