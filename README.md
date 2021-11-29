@@ -14,13 +14,18 @@
 ### Reporting
 
 
-| Scan Results |
+| Scan Results |                                        |
+|-------------|-----------------------------------------|
+| Start Time  | yyyy-dy-mo hr:mn:ss                     |
+| Finish Time | yyyy-dy-mo hr:mn:ss                     |  
+| Scan Time   | xx Minutes, yy Seconds                  |
+| Profile     | default                                 |
+
+
+| Server Information |                                  |
 |-------------------------------------------------------|
-| Start Time  |                                         |
-| Finish Time |                                         |  
-| Scab Time   |                                         |
-| Profile     |                                         |
-|                                                       |
+| Responsive | True/False                               |
+|Server Banner | Apache/2.4.6 (Ubuntu) 
 
 
 
