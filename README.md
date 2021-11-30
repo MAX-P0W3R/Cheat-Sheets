@@ -11,22 +11,7 @@
 - netcat
 - hashcat
 - sherlock
-
-### Reporting
-
-
-| Scan Results |                                        |
-|-------------|-----------------------------------------|
-| Start Time  | yyyy-dy-mo hr:mn:ss                     |
-| Finish Time | yyyy-dy-mo hr:mn:ss                     |  
-| Scan Time   | xx Minutes, yy Seconds                  |
-| Profile     | default                                 |
-
-
-| Server Information |                                  |
-|------------|------------------------------------------|
-| Responsive | True/False                               |
-|Server Banner | Apache/2.4.6 (Ubuntu) 
+- reporting template
 
 
 
