@@ -17,3 +17,13 @@ ffuf -w /path/to/paramnames.txt -u https://target/script.php?FUZZ=test_value -fs
 ```go
 fuff -w /path/to/values.txt -u https://target/script.php?valid_name=FUZZ -fc 401
 ```
+
+# POST data fuzzing
+```go
+ffuf -w /path/to/postdata.txt -X POST -d "username=admin\&password=FUZZ" -u https://target/login.php -fc 401
+```
+
+# Set Maximum Execution Time
+```go
+ffuf -w /path/to/wordlist -u https://target/FUZZ -maxtime 60
+```
