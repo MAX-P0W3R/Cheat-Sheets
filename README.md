@@ -1,7 +1,7 @@
-## Cheat-Sheets for Pentesting
+# Cheat Sheets for Pentesting
 
-### Tools
-
+## Unofficial OSCP Approved Tools
+### This by no means the end-all be-all list but merely tools that have been suggeseted by others.
 
 - Hydra
 - Gobuster
