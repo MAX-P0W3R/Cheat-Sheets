@@ -67,24 +67,44 @@
 - [Linux Kernel Exploits](https://github.com/lucyoa/kernel-exploits)
 
 ### Password Brute Forcers
-- 
--
+- [BruteX](https://github.com/1N3/BruteX)
+- [Hashcat](https://hashcat.net/hashcat/)
+- [John The Ripper](https://www.openwall.com/john/)
 
 ### Post-Exploitation & Privelage Escalation
--
--
--
--
+- [LinEnum](https://github.com/rebootuser/LinEnum)
+- [LinPrivChecker](https://www.securitysift.com/download/linuxprivchecker.py)
+- [Powerless](https://github.com/M4ximuss/Powerless)
+- [PowerUp](https://github.com/HarmJ0y/PowerUp)
+- [Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester)
+- [Windows Exploit Suggester](https://github.com/bitsadmin/wesng)
+- [Windows Privelage Escalation Awesome Scripts WinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
+- [Linux Privelage Escalation Awesome Scripts](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS) *Double -Check The VERSION NUMBER*
+- [GTFO Bins](https://gtfobins.github.io/)
+- [Get GTFO Bins](https://github.com/CristinaSolana/ggtfobins)
+- [Sudo Killer](https://github.com/TH3xACE/SUDO_KILLER)
+- [WADComs](https://wadcoms.github.io/)
+- [LOLBAS](https://lolbas-project.github.io/#) 
 
 ### Buffer OverFlow
--
--
--
+- [VulnServer for Windows](https://github.com/stephenbradshaw/vulnserver)
+- [VulnServer for Linux](https://github.com/ins1gn1a/VulnServer-Linux)
+-[Tib3rius TryHackMe Buffer Overflow](https://tryhackme.com/jr/bufferoverflowprep)
+
+### Privelage Escalation Practice
+- [Local Privelage Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
+- [Tib3rius Linux Privelage Escalation](https://www.udemy.com/course/linux-privilege-escalation/)
+- [Tib3rius Windows Privelage Escalation](https://www.udemy.com/course/windows-privilege-escalation/)
 
 ### Resources
--
--
--
+- HTB/VulnHub OSCP like [Machines](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159) 
+- Offensive Security [Proving Grounds](https://www.offensive-security.com/labs/individual/)
+- [Virtual Hacking Labs](https://www.virtualhackinglabs.com/)
+- [HackTheBox](https://www.hackthebox.eu/) *VIP required to access the retired machines*
+- [Vulnhub](https://www.vulnhub.com/)
+- [RootMe](https://www.root-me.org/)
+- [TryHackMe](https://tryhackme.com/)
+- [OverTheWire](https://overthewire.org/) *Start with Bandit*
 
 
 
