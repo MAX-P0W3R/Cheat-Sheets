@@ -49,19 +49,25 @@
 - [MSFVenom Payload Creator](https://github.com/g0tmi1k/msfpc)
 
 ### PHP Reverse Shells
-- 
--
+- [Windows PHP Reverse Shell](https://github.com/Dhayalanb/windows-php-reverse-shell)
+- [Pentest Monkey Unix PHP Reverse Shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)
 
 ### Terminals
--
--
+- [Tmux](https://tmuxcheatsheet.com/)
+- [Tmux Logging](https://github.com/tmux-plugins/tmux-logging)
+- [Oh My Tmux](https://github.com/devzspy/.tmux)
+- [Screen](https://gist.github.com/jctosta/af918e1618682638aa82)
+- [Terminator](http://www.linuxandubuntu.com/home/terminator-a-linux-terminal-emulator-with-multiple-terminals-in-one-window)
+- [Vim Windir](https://github.com/jtpereyda/vim-windir)
 
 ### Exploits
--
--
+- [Exploit-DB](https://www.exploit-db.com/)
+- [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits)
+- [AutoNSE](https://github.com/m4ll0k/AutoNSE)
+- [Linux Kernel Exploits](https://github.com/lucyoa/kernel-exploits)
 
 ### Password Brute Forcers
--
+- 
 -
 
 ### Post-Exploitation & Privelage Escalation
