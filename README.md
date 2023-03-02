@@ -1,6 +1,6 @@
 # Cheat Sheets for Pentesting - Unofficial OSCP Approved Tools
 
-## This by no means the end-all be-all list but merely tools that have been suggeseted by others. General rule of thumb - if a tool can auto-exploit then it is not allowed in the exam.
+## This is by no means the end-all be-all list but merely tools that have been suggeseted by others. General rule of thumb - if a tool can *auto-exploit* then it is not allowed in the exam.
 
 ### Note Taking
 - OneNote
