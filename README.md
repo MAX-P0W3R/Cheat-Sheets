@@ -1,5 +1,7 @@
 # Cheat Sheets for Pentesting - Unofficial OSCP Approved Tools
 
+**:skull_and_crossbones:I am not the creator of these of tools. Use responsibly, don't be an asshole.**
+
 ## This is by no means the end-all be-all list but merely tools that have been suggeseted by others. General rule of thumb - if a tool can *auto-exploit* then it is not allowed in the exam.
 
 ### Note Taking
@@ -105,8 +107,3 @@
 - [RootMe](https://www.root-me.org/)
 - [TryHackMe](https://tryhackme.com/)
 - [OverTheWire](https://overthewire.org/) *Start with Bandit*
-
-
-
-
-**:skull_and_crossbones:I am not the creator of these of tools. Use responsibly, don't be an asshole.**
