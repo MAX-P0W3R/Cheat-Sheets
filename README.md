@@ -11,7 +11,6 @@
 - [PenTest](http://pentest.ws/)
 - [Joplin](https://github.com/tjnull/TJ-JPT) (Template from TJ Null)
 - [Obsidian Mark Down](https://obsidian.md/)
-- [Trilium](https://github.com/zadam/trilium)
 
 ### Report Template
 - [OSCP Report Template]()
