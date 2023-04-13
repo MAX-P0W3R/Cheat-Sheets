@@ -6,10 +6,37 @@ Oracle:  `'foo'||'bar'`
 
 Microsoft: `'foo'+'bar'` 
 
+PostgreSQL: `'foo'||'bar'`
+
+MySQL: `'foo' (space) 'bar'`
+
+---
 
 ## Substring
+Oracle:	`SUBSTR('foobar', 4, 2)`
+
+Microsoft:	`SUBSTRING('foobar', 4, 2)`
+
+PostgreSQL:	`SUBSTRING('foobar', 4, 2)`
+
+MySQL:	`SUBSTRING('foobar', 4, 2)`
+
+---
 
 ## Comments
+Oracle:	`--comment`
+
+Microsoft:	`--comment`
+            `/*comment*/`
+            
+PostgreSQL:	`--comment`
+            `/*comment*/`
+
+MySQL:	`#comment`
+`-- comment [Note the space after the double dash]`
+`/*comment*/`
+
+---
 
 ## Database contents
 
